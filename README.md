@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekha-gt&label=Profile%20views&color=0e75b6&style=flat" alt="rekha-gt" /> </p>
 
 - 🔭 I’m currently working on **site For Templates**
-
-- 🌱 I’m currently learning **Frameworks,Angular Js**
+ 
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **rekha.gt5077@gmail**
 
